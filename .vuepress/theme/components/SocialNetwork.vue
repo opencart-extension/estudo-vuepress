@@ -1,19 +1,20 @@
 <template>
   <div>
-    <a href="#" class="small-social">
-      <i class="pixicon-facebook3 big-icon-50 pix-slight-white"></i>
-    </a>
-    <a href="#" class="small-social">
-      <i class="pixicon-twitter4 big-icon-50 pix-slight-white"></i>
-    </a>
-    <a href="#" class="small-social">
-      <i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
+    <a
+      v-for="social in $themeConfig.socialNetwork"
+      :key="`social-network-${social.icon}`"
+      :href="social.link"
+      class="small-social"
+    >
+      <i :class="`${social.icon} big-icon-50 pix-slight-white`"></i>
     </a>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'SocialNetwork'
+  mounted() {
+    console.log(this)
+  }
 }
 </script>

@@ -35,15 +35,7 @@
             <div class="pix-content pix-adjust-height text-right" style="margin-top: 1px;">
 
               <div class="pix-header-item">
-                <a href="#" class="small-social">
-                  <i class="pixicon-facebook3 big-icon-50 pix-slight-white"></i>
-                </a>
-                <a href="#" class="small-social">
-                  <i class="pixicon-twitter4 big-icon-50 pix-slight-white"></i>
-                </a>
-                <a href="#" class="small-social">
-                  <i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
-                </a>
+                <SocialNetwork />
               </div>
             </div>
           </div>
@@ -58,14 +50,23 @@
 </template>
 
 <script>
+import SocialNetwork from '../components/SocialNetwork'
+
 export default {
   name: 'GlobalLayout',
+
+  components: {
+    SocialNetwork
+  },
+
+  data: () => ({
+    socialNetwork: null
+  }),
 
   computed: {
     layout() {
       if (this.$page.path) {
         if (this.$frontmatter.layout) {
-          console.log(this.$frontmatter.layout)
           return this.$frontmatter.layout
         }
         return 'Layout'
@@ -73,10 +74,6 @@ export default {
 
       return 'NotFound'
     }
-  },
-
-  mounted() {
-    console.log(this)
   }
 }
 </script>
