@@ -7,12 +7,26 @@
         </div>
       </div>
     </div>
+
+    <div class="row">
+      <div class="col-sm-10">
+        <div class="pix-content pix-padding-bottom-30">
+          <Disqus />
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
+import Disqus from '../components/Disqus'
+
 export default {
-  name: 'Single'
+  name: 'Single',
+
+  components: {
+    Disqus
+  }
 }
 </script>
 
