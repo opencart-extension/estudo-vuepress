@@ -1,3 +1,7 @@
+---
+layout: Single
+---
+
 # Vergonha de viver
 <small>Clarice Lispector</small>
 

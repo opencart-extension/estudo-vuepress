@@ -1,3 +1,7 @@
+---
+layout: Single
+---
+
 # Ler deveria ser proibido
 <small>Guiomar de Grammon</small>
 

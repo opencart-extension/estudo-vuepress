@@ -1,3 +1,7 @@
+---
+layout: Single
+---
+
 # Recado aos amigos distantes
 <small>Cecília Meireles</small>
 

@@ -1,3 +1,7 @@
+---
+layout: Single
+---
+
 # O garoto das meias vermelhas
 <small>Carlos Heitor Cony</small>
 

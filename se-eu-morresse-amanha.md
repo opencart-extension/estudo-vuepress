@@ -1,3 +1,7 @@
+---
+layout: Single
+---
+
 # Se eu morresse amanhã
 <small>Álvares de Azevedo</small>
 

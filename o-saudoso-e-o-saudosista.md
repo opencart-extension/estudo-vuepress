@@ -1,3 +1,7 @@
+---
+layout: Single
+---
+
 # O saudoso e o saudosista
 <small>Desconhecido</small>
 
