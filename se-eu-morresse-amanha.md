@@ -25,4 +25,4 @@ A ânsia de glória, o doloroso afã...
 A dor no peito emudecera ao menos
 Se eu morresse amanhã!
 
-[![Poema: se eu morresse amanhã!](img.youtube.com/vi/CDfrY62cCEM/0.jpg)](https://www.youtube.com/watch?v=CDfrY62cCEM)
+[![Poema: se eu morresse amanhã!](https://img.youtube.com/vi/CDfrY62cCEM/0.jpg)](https://www.youtube.com/watch?v=CDfrY62cCEM)
