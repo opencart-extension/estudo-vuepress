@@ -7,8 +7,6 @@
         </div>
       </div>
     </div>
-
-    <SocialNetwork />
   </div>
 </template>
 
