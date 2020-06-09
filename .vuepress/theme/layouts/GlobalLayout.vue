@@ -46,6 +46,73 @@
     <div class="pix_section pix-padding-v-40">
       <component :is="layout" />
     </div>
+
+    <div class="pix_section pix-padding-v-20 gray-light-black">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 col-xs-12 col-sm-3">
+            <div class="pix-content">
+              <h5 class="pix-white"><span class="pix_edit_text"><strong>Meet PixFort</strong></span></h5>
+              <div class="pix-padding-v-10">
+                <a href="#" class="pix-gray"><span class="pix_edit_text">About PixFort</span></a>
+              </div>
+              <div class="pix-padding-v-10">
+                <a href="#" class="pix-gray"><span class="pix_edit_text">Explore our Ecosystem</span></a>
+              </div>
+              <div class="pix-padding-v-10">
+                <a href="#" class="pix-gray"><span class="pix_edit_text">Careers</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-xs-12">
+            <h5 class="pix-white"><span class="pix_edit_text"><strong>Our Community</strong></span></h5>
+            <div class="pix-padding-v-10">
+              <a href="#" class="pix-gray"><span class="pix_edit_text">Purchase MEGAPACK</span></a>
+            </div>
+            <div class="pix-padding-v-10">
+              <a href="#" class="pix-gray"><span class="pix_edit_text">PixBuilder Demo</span></a>
+            </div>
+            <div class="pix-padding-v-10">
+              <a href="#" class="pix-gray"><span class="pix_edit_text">View Portfolio</span></a>
+            </div>
+          </div>
+          <div class="col-md-3 col-xs-12">
+            <h5 class="pix-white"><span class="pix_edit_text"><strong>Helpdesk</strong></span></h5>
+            <div class="pix-padding-v-10">
+              <a href="#" class="pix-gray"><span class="pix_edit_text">Contact Support</span></a>
+            </div>
+            <div class="pix-padding-v-10">
+              <a href="#" class="pix-gray"><span class="pix_edit_text">Open a Ticket</span></a>
+            </div>
+            <div class="pix-padding-v-10">
+              <a href="#" class="pix-gray"><span class="pix_edit_text">View Knowledge base</span></a>
+            </div>
+          </div>
+          <div class="col-md-3 col-xs-12">
+            <h5 class="pix-white"><span class="pix_edit_text"><strong>Get in Touch</strong></span></h5>
+            <div class="pix-padding-v-10">
+              <p class="pix-gray">
+                <span class="pix_edit_text">
+                  We provides you with a full user that results in faster.
+                </span>
+              </p>
+            </div>
+          </div>
+          <div class="col-md-12 col-xs-12">
+          </div>
+          <div class="col-md-7 col-xs-12">
+            <div class="pix-content pix-padding-v-30">
+              <a class="pix-inline-block" href="#"><img src="images/main/logo-md-light.png" alt="" class="img-responsive"></a>
+            </div>
+          </div>
+          <div class="col-md-5 col-xs-12">
+            <div class="pix-content pix-padding-v-30 text-right">
+              <span class="pix-black-gray-light pix-padding-v-10 pix-inline-block pix-margin-fix-top"><span class="pix_edit_text">MEGAPACK Copyright © 2017 PixFort All Rights Reserved</span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
