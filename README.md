@@ -14,6 +14,6 @@
 
 # Poesias de Florbela Espanca
 
-[Cemitérios](cemiterios.md)
+[Cemitérios](florbela-espanca/cemiterios.md)
 
-[Eu](eu.md)
+[Eu](florbela-espanca/eu.md)
