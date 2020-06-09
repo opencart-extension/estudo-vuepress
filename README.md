@@ -4,7 +4,7 @@
 
 [O saudoso e o saudosista](o-saudoso-e-o-saudosista.md)
 
-[Garoto das meias vermelhas](o-garoto-das-meias-vermelhas.md)
+[O garoto das meias vermelhas](o-garoto-das-meias-vermelhas.md)
 
 [Recado aos amigos distantes](recado-aos-amigos-distantes.md)
 
