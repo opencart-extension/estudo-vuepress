@@ -1,7 +1,7 @@
 <template>
   <div>
       <div class="pix_section pix_nav_menu pix_scroll_header normal pix-padding-v-10" data-scroll-bg="#fff">
-      <div class="container">
+      <div class="container" id="header-container">
         <div class="row">
           <div class="col-md-10 col-xs-12 pix-inner-col col-sm-10 column ui-droppable">
             <div class="pix-content">
@@ -150,6 +150,10 @@ export default {
 @import url('/css/font-awesome.min.css');
 @import url('/css/main.css');
 @import url('/css/font-style.css');
+
+#header-container {
+  width: 90%
+}
 
 h1 {
   margin-top: 0.54em;
